@@ -130,8 +130,23 @@ ul {
   text-align: center;
 }
 
+/*Starting fashion section */
+
+#fashion p {
+  margin-bottom: 40px;
+}
+
 /*Starting hobbies section */
+
+#travels p {
+  margin-bottom: 40px;
+}
 
 #travels img {
   margin: auto;
   width: 300px;
+}
+
+
+
+
